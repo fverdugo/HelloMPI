@@ -10,7 +10,9 @@ Usef for:
 
 ## Usage
 
-Taking das6 as example https://www.cs.vu.nl/das/  
+Taking das6 as example https://www.cs.vu.nl/das/
+
+Move to the `cpu` folder and run the commands below.
 
 Without system image (default).
 
