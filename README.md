@@ -18,6 +18,11 @@ Without system image (default).
 $ das6/configure.sh
 $ sbatch das6/job.sh
 ```
+With CUDA in gpu folder
+```batch
+$ sbatch snellius-2023/configure.sh
+$ sbatch snellius-2023/job.sh
+```
 
 With system image (advanced).
 ```batch
